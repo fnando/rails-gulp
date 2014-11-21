@@ -14,3 +14,7 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+/node_modules
+/vendor/bower_components
+/app/assets/javascripts
